@@ -1,8 +1,8 @@
 # 19AI405 FUNDAMENTALS OF ARTIFICIALINTELLIGENCE 
 # Laboratory Experiments
 ## ExpNo 1 : Implement Depth First Search Traversal of a Graph
-### Name: SITHI HAJARA I
-### Register Number: 212221230102
+### Name: VISHRANTHI A
+### Register Number: 212221230124
 ### Aim:
 To Implement Depth First Search Traversal of a Graph using Python 3.
 
@@ -71,8 +71,8 @@ print(traversedpath)
 Thus,a Graph was constructed and implementation of Depth First Search for the same graph was done successfully.
 
 # ExpNo 2 : Implement Breadth First Search Traversal of a Graph
-### Name : Sithi hajara I
-### Register No : 212221230102
+### Name: VISHRANTHI A
+### Register Number: 212221230124
 ### Aim:
 To Implement Breadth First Search Traversal of a Graph using Python 3.
 
@@ -151,8 +151,8 @@ print(traversedpath)
 Thus,a Graph was constructed and implementation of Breadth First Search for the same graph was done successfully.
 
 # ExpNo 3 : Implement A* search algorithm for a Graph
-#### Name: Sithi hajara I
-#### Register Number:212221230102
+### Name: VISHRANTHI A
+### Register Number: 212221230124
 ### Aim:
 To ImplementA * Search algorithm for a Graph using Python 3.
 
@@ -294,8 +294,8 @@ aStarAlgo('A', 'J')
 ### RESULT
 Thus the implementation of A* Search algorithm is done successfully.
 # ExpNo 4 : Implement Simple Hill Climbing Algorithm
-#### Name: Sithi Hajara I
-#### Register Number:212221230102
+### Name: VISHRANTHI A
+### Register Number: 212221230124
 ### Aim:
 Implement Simple Hill Climbing Algorithm and Generate a String by Mutating a Single Character at each iteration
 
@@ -368,8 +368,8 @@ SimpleHillClimbing()
 Thus the Implementation of Simple Hill Climbing Algorithm and Generating a String by Mutating a Single Character at each iteration is done successfully.
 
 # ExpNo 5 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game
-#### Name : Sithi Hajara I
-#### Register No : 212221230102
+### Name: VISHRANTHI A
+### Register Number: 212221230124
 ### Aim:
 Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game
 
@@ -646,8 +646,9 @@ if __name__ == "__main__":
 Thus,Implementation of Minimax Search Algorithm for a Simple TIC-TAC-TOE game wasa done successfully.
 
 <h1>ExpNo 6 : Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
-<h3>Name: Sithi Hajara I</h3>
-<h3>Register Number: 212221230102</h3>
+
+### Name: VISHRANTHI A
+### Register Number: 212221230124
 <H3>Aim:</H3>
 <p>
 Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game
@@ -862,8 +863,9 @@ if __name__ == "__main__":
 Thus the Implementation of Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game is done successfully
 
 <h1>ExpNo 7 : Solve Cryptarithmetic Problem,a CSP(Constraint Satisfaction Problem) using Python</h1> 
-<h3>Name: Sithi Hajara I</h3>
-<h3>Register Number:212221230102</h3>
+
+### Name: VISHRANTHI A
+### Register Number: 212221230124
 <H3>Aim:</H3>
 <p>
     To solve Cryptarithmetic Problem,a CSP(Constraint Satisfaction Problem) using Python
@@ -976,8 +978,9 @@ else:
 Thus a Cryptarithmetic Problem was solved using Python successfully
 
 <h1>ExpNo 8 : Solve Wumpus World Problem using Python demonstrating Inferences from Propositional Logic</h1> 
-<h3>Name: Sithi Hajara I</h3>
-<h3>Register Number:212221230102</h3>
+
+### Name: VISHRANTHI A
+### Register Number: 212221230124
 <H3>Aim:</H3>
 <p>
     To solve  Wumpus World Problem using Python demonstrating Inferences from Propositional Logic
